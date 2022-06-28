@@ -1,3 +1,3 @@
-# tructuralizationTest
+# Tructuralization
 
-A description of this package.
+XCTContext.runActivityを使ったテストの構造化のサンプル
