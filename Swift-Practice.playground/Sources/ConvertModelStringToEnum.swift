@@ -2,7 +2,7 @@ import Foundation
 import Combine
 
 /// サンプルのモデル
-public struct SampleModel: Decodable, Equatable {
+public struct SampleModel: Decodable {
     /// 適当なID
     public let id: Int
     /// こっちのplanはあくまでJsonからの文字列を受け取るだけにするのでprivateにする
