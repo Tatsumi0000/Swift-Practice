@@ -1,0 +1,5 @@
+import Foundation
+
+convertModelStringToEnumSample1()
+convertModelStringToEnumSample2()
+convertModelStringToEnumSample3()
